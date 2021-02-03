@@ -44,7 +44,7 @@ public class Contract {
 		this.totalValue = totalValue;
 	}
 	
-	public List<Installment> getInstallment() {
+	public List<Installment> getInstallments() {
 		return installments;
 	}
 	
